@@ -1,0 +1,5 @@
+# Redirect all .html pages to paths without .html
+/*  /:splat.html  200
+
+# Redirect all .php pages to paths without .php (if needed)
+/*  /:splat.php  200
